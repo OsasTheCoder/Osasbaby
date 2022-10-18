@@ -10,6 +10,7 @@ I write web services, APIs, also develop server-side logic, and clever program
 *   ✉️  You can contact me at [blessingstephaine2424@gmail.com](mailto:blessingstephaine2424@gmail.com)
 *   🧠  I'm mastering NodeJS
 *   🤝  I'm open to collaborating on interesting projects### Skills 
+*   
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -22,10 +23,11 @@ I write web services, APIs, also develop server-side logic, and clever program
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
+
+<p align="left">
                           
                       <a href="https://www.codepen.io/Blessing Osas obasohan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
                           
@@ -33,4 +35,5 @@ I write web services, APIs, also develop server-side logic, and clever program
                           
                       <a href="https://www.linkedin.com/in/blessing-obasohan-8980b2229" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitter.com/osasbaby24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+                      <a href="https://www.twitter.com/osasbaby24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
