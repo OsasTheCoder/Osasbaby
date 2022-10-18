@@ -9,7 +9,7 @@ I write web services, APIs, also develop server-side logic, and clever program
 *   🌍  I'm based in Lagos, Nigerian
 *   ✉️  You can contact me at [blessingstephaine2424@gmail.com](mailto:blessingstephaine2424@gmail.com)
 *   🧠  I'm mastering NodeJS
-*   🤝  I'm open to collaborating on interesting projects### Skills 
+*   🤝  I'm open to collaborating on interesting projects
 *   
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -24,16 +24,5 @@ I write web services, APIs, also develop server-side logic, and clever program
 </p>
                     
 ### Socials
-                  
-                  
-
-<p align="left">
-                          
-                      <a href="https://www.codepen.io/Blessing Osas obasohan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/Osasbaby" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/blessing-obasohan-8980b2229" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/osasbaby24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+                 
+<p align="left"> <a href="https://www.codepen.io/Blessing Osas obasohan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/Osasbaby" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/blessing-obasohan-8980b2229" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/osasbaby24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
